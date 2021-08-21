@@ -1,7 +1,7 @@
 
 - I’m @shirakurak.
 - I work as an application engineer on weekdays.
-- I’m interested in Generative art, so I spend my private time studying it.
+- I’m interested in Generative art, so spend my private time studying it.
 - Mathematics📈, Zen⛩, Prayer🤞, Flower🌷.
 <!---
 - 💞️ I’m looking to collaborate on ...
