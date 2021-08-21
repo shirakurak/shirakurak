@@ -1,7 +1,8 @@
 
-- 👋 Hi, I’m @shirakurak.
-- 👀 I’m interested in Generative art with Mathematics and Zen.
-- 🌱 I’m currently learning Processing and Java.
+- I’m @shirakurak.
+- I work as an application engineer on weekdays.
+- I’m interested in Generative art, so I spend my private time studying it.
+- Mathematics📈, Zen⛩, Prayer🤞, Flower🌷.
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
