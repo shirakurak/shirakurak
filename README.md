@@ -1,4 +1,4 @@
 
 - I’m @shirakurak.
-- work as an Java programmer.
-- interested in Java, Scala, and related fields.
+- work as an Java programmer, in now.
+- interested in ..., yes, see the repository.
