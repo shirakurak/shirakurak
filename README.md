@@ -1,4 +1,1 @@
-
-- I’m @shirakurak.
-- work as an programmer in now.
-- interested in ... owl :)
+interested in software, programming, and owl :)
