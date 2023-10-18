@@ -1,2 +1,2 @@
 private links:
-[tokuhito](https://github.com/shirakurak/tokuhito)
+(to)[https://github.com/shirakurak/to]
