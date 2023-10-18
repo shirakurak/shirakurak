@@ -1,1 +1,2 @@
-Recent Interests: F# and related fields 👼
+private links:
+[tokuhito](https://github.com/shirakurak/tokuhito)
