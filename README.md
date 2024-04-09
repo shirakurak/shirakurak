@@ -1,4 +1,4 @@
-LINKS:
+LINKS（for me）:
 
 - [Kaggle-AIMO](https://github.com/shirakurak/kaggle-ai-mathematical-olympiad-progress-prize-1)（private）
 - [仕事に関する日誌](https://github.com/shirakurak/wced_kiloque/issues/53)（private）
