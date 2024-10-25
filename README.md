@@ -1,1 +1,1 @@
-[resume](https://github.com/shirakurak/resume/blob/main/README.md)
+[hibi](https://github.com/shirakurak/hibi)
